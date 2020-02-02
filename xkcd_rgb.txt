@@ -1,0 +1,949 @@
+#000000	black
+#ffffff	white
+#bb3f3f	dull red
+#4b0101	dried blood
+#840000	dark red
+#e50000	red
+#9a0200	deep red
+#4a0100	mahogany
+#db5856	pastel red
+#c44240	reddish
+#fd5956	grapefruit
+#410200	deep brown
+#cf524e	dark coral
+#d9544d	pale red
+#fc5a50	coral
+#c85a53	dark salmon
+#c27e79	brownish pink
+#1d0200	very dark brown
+#850e04	indian red
+#ff796c	salmon
+#c8aca9	pinkish grey
+#6e1005	reddy brown
+#997570	reddish grey
+#8f1402	brick red
+#ef4026	tomato
+#ff9a8a	peachy pink
+#fa4224	orangey red
+#a03623	brick
+#fff4f2	very light pink
+#9e3623	brownish red
+#fd411e	orange red
+#f29e8e	blush
+#f4320c	vermillion
+#ff6f52	orange pink
+#ec2d01	tomato red
+#9f2305	burnt red
+#f8481c	reddish orange
+#f43605	orangish red
+#8b2e16	red brown
+#fea993	light salmon
+#ff7855	melon
+#af2f0d	rusty red
+#aa2704	rust red
+#ff724c	pinkish orange
+#b17261	pinkish brown
+#fe420f	orangered
+#fd3c06	red orange
+#ffb19a	pale salmon
+#b66a50	clay
+#de7e5d	dark peach
+#922b05	brown red
+#ca6641	terracotta
+#cb6843	terracota
+#7f2b0a	reddish brown
+#fe4b03	blood orange
+#d99b82	pinkish tan
+#c9643b	terra cotta
+#9a3001	auburn
+#bd6c48	adobe
+#fc824a	orangish
+#978a84	warm grey
+#9c6d57	brownish
+#a83c09	rust
+#a13905	russet
+#742802	chestnut
+#8b3103	rust brown
+#dc4d01	deep orange
+#c14a09	brick orange
+#ff5b00	bright orange
+#a0450e	burnt umber
+#fd8d49	orangeish
+#411900	chocolate brown
+#a2653e	earth
+#b04e0f	burnt sienna
+#ffb07c	peach
+#f0833a	dusty orange
+#a9561e	sienna
+#c65102	dark orange
+#c04e01	burnt orange
+#ff964f	pastel orange
+#cd5909	rusty orange
+#c45508	rust orange
+#875f42	cocoa
+#b66325	copper
+#f0944d	faded orange
+#b75203	burnt siena
+#ac4f06	cinnamon
+#ba9e88	mushroom
+#3d1c02	chocolate
+#b2713d	clay brown
+#f97306	orange
+#ffb16d	apricot
+#985e2b	sepia
+#d8863b	dull orange
+#ffa756	pale orange
+#fb7d07	pumpkin orange
+#9d7651	mocha
+#7f4e1e	milk chocolate
+#ffd8b1	light peach
+#cb7723	brownish orange
+#964e02	warm brown
+#341c02	dark brown
+#b1916e	pale brown
+#ca6b02	browny orange
+#b25f03	orangish brown
+#ab7e4c	tan brown
+#be6400	orange brown
+#e17701	pumpkin
+#ad8150	light brown
+#a57e52	puce
+#7f684e	dark taupe
+#ac7434	leather
+#b16002	orangey brown
+#a75e09	raw umber
+#fdaa48	light orange
+#653700	brown
+#b26400	umber
+#b96902	brown orange
+#ff9408	tangerine
+#c87606	dirty orange
+#7f5112	medium brown
+#ffa62b	mango
+#fdb147	butterscotch
+#876e4b	dull brown
+#a6814c	coffee
+#b9a281	taupe
+#8a6e45	dirt
+#836539	dirt brown
+#af884a	dark tan
+#af6f09	caramel
+#86775f	brownish grey
+#cfaf7b	fawn
+#7a6a4f	greyish brown
+#b2996e	dust
+#c7ac7d	toupe
+#9a6200	raw sienna
+#d3b683	very light brown
+#c69f59	camel
+#cba560	sand brown
+#ffab0f	yellowish orange
+#7f7053	grey brown
+#ac9362	dark beige
+#ffad01	orange yellow
+#f2ab15	squash
+#60460f	mud brown
+#c9ae74	sandstone
+#efb435	macaroni and cheese
+#ffe5ad	pale peach
+#a88f59	dark sand
+#b27a01	golden brown
+#d1b26f	tan
+#feb209	saffron
+#beae8a	putty
+#feb308	amber
+#885f01	poo brown
+#c4a661	sandy brown
+#fcb001	yellow orange
+#7b5804	shit brown
+#fdb915	orangey yellow
+#ccad60	desert
+#a87900	bronze
+#ac7e04	mustard brown
+#7a5901	poop brown
+#7f5e00	poop
+#f9bc08	golden rod
+#bf9005	ochre
+#7f5f00	shit
+#886806	muddy brown
+#ffc512	sunflower
+#fcc006	marigold
+#8d8468	brown grey
+#fec615	golden yellow
+#fbdd7e	wheat
+#735c12	mud
+#cb9d06	yellow ochre
+#fac205	goldenrod
+#f7d560	light mustard
+#f4d054	maize
+#f5bf03	golden
+#e2ca76	sand
+#c69c04	ocre
+#ae8b0c	yellowy brown
+#9b7a01	yellowish brown
+#fdde6c	pale gold
+#a8a495	greyish
+#ada587	stone
+#d5ab09	burnt yellow
+#fddc5c	light gold
+#947706	puke brown
+#8e7618	hazel
+#bf9b0c	ocher
+#b59410	dark gold
+#8f7303	poo
+#afa88b	bland
+#f1da7a	sandy
+#ffe36e	yellow tan
+#b79400	yellow brown
+#a88905	dark mustard
+#dbb40c	gold
+#e6daa6	beige
+#ad900d	baby shit brown
+#fce166	sand yellow
+#9f8303	diarrhea
+#9b8f55	dark khaki
+#645403	olive brown
+#fbeeac	light tan
+#ab9004	baby poo
+#937c00	baby poop
+#b29705	brown yellow
+#d5b60a	dark yellow
+#ffda03	sunflower yellow
+#ffdf22	sun yellow
+#ceb301	mustard
+#fff9d0	pale
+#c9b003	brownish yellow
+#fedf08	dandelion
+#eedc5b	dull yellow
+#fff39a	dark cream
+#fdee73	sandy yellow
+#d2bd0a	mustard yellow
+#bfac05	muddy yellow
+#a5a391	cement
+#7d7103	ugly brown
+#696112	greenish brown
+#696006	greeny brown
+#fef69e	buff
+#faee66	yellowish
+#544e03	green brown
+#d0c101	ugly yellow
+#c2b709	olive yellow
+#aaa662	khaki
+#fffcc4	egg shell
+#fcf679	straw
+#706c11	brown green
+#fffa86	manilla
+#cdc50a	dirty yellow
+#ddd618	piss yellow
+#c7c10c	vomit yellow
+#6f6c0a	browny green
+#fff917	sunny yellow
+#fefcaf	parchment
+#c2be0e	puke yellow
+#fffd78	custard
+#fffd74	butter yellow
+#fffeb6	light beige
+#fffd37	sunshine yellow
+#fffd01	bright yellow
+#fffe7a	light yellow
+#fffe71	pastel yellow
+#fffe40	canary yellow
+#ffffe4	off white
+#ffffd4	eggshell
+#ffffcb	ivory
+#ffffc2	cream
+#ffffb6	creme
+#ffff84	pale yellow
+#fcfc81	yellowish tan
+#ffff81	butter
+#ffff7e	banana
+#ffff14	yellow
+#a5a502	puke
+#feff7f	faded yellow
+#fdff38	lemon yellow
+#f1f33f	off yellow
+#fdff52	lemon
+#fdff63	canary
+#a2a415	vomit
+#828344	drab
+#feffca	ecru
+#fafe4b	banana yellow
+#6a6e09	brownish green
+#929901	pea soup
+#606602	mud green
+#8f9805	baby poop green
+#6e750e	olive
+#a8b504	mustard green
+#b6c406	baby puke green
+#b5c306	bile
+#758000	shit green
+#acbb0d	snot
+#c9d179	greenish beige
+#6f7632	olive drab
+#6f7c00	poop green
+#d0e429	sickly yellow
+#373e02	dark olive
+#889717	baby shit green
+#9aae07	puke green
+#94a617	pea soup green
+#b5ce08	green/yellow
+#748500	swamp green
+#6c7a0e	murky green
+#94ac02	barf green
+#e6f2a2	light khaki
+#89a203	vomit green
+#677a04	olive green
+#9cbb04	bright olive
+#96b403	booger green
+#a4bf20	pea
+#a0bf16	gross green
+#bccb7a	greenish tan
+#9dc100	snot green
+#8eab12	pea green
+#cfff04	neon yellow
+#cdfd02	greenish yellow
+#7a9703	ugly green
+#9db92c	sick green
+#94b21c	sickly green
+#d0fe1d	lime yellow
+#728f02	dark yellow green
+#c6f808	greeny yellow
+#9bb53c	booger
+#acbf69	light olive
+#8fae22	icky green
+#b0dd16	yellowish green
+#657432	muddy green
+#3c4d03	dark olive green
+#c1f80a	chartreuse
+#7f8f4e	camo
+#bff128	yellowy green
+#c9ff27	green yellow
+#87a922	avocado green
+#b9cc81	pale olive
+#4b5d16	army green
+#99cc04	slime green
+#728639	khaki green
+#90b134	avocado
+#bbf90f	yellowgreen
+#a4be5c	light olive green
+#a9be70	tan green
+#c8fd3d	yellow/green
+#84b701	dark lime
+#4b6113	camouflage green
+#c0fb2d	yellow green
+#667e2c	dirty green
+#cbf85f	pear
+#bffe28	lemon lime
+#526525	camo green
+#adf802	lemon green
+#7ebd01	dark lime green
+#a8ff04	electric lime
+#698339	swamp
+#667c3e	military green
+#b1d27b	pale olive green
+#9dff00	bright yellow green
+#ccfd7f	light yellow green
+#5c8b15	sap green
+#638b27	mossy green
+#a6c875	light moss green
+#35530a	navy green
+#aaff32	lime
+#8ffe09	acid green
+#befd73	pale lime
+#b9ff66	light lime green
+#658b38	moss green
+#5ca904	leaf green
+#c4fe82	light pea green
+#89fe05	lime green
+#87fd05	bright lime
+#9cef43	kiwi
+#71aa34	leaf
+#5cb200	kermit green
+#749551	drab green
+#b1ff65	pale lime green
+#c2ff89	light yellowish green
+#76cd26	apple green
+#c0fa8b	pistachio
+#8ee53f	kiwi green
+#769958	moss
+#aefd6c	light lime
+#58bc08	frog green
+#aeff6e	key lime
+#4da409	lawn green
+#70b23f	nasty green
+#c1fd95	celery
+#388004	dark grass green
+#a9f971	spring green
+#419c03	grassy green
+#77ab56	asparagus
+#65fe08	bright lime green
+#5cac2d	grass
+#9af764	light grass green
+#75b84f	turtle green
+#3f9b0b	grass green
+#699d4c	flat green
+#6ecb3c	apple
+#b7e1a1	light grey green
+#8fb67b	lichen
+#87ae73	sage
+#7d7f7c	medium grey
+#d8dcd6	light grey
+#5edc1f	green apple
+#bdf8a3	tea green
+#61de2a	toxic green
+#c8ffb0	light light green
+#d1ffbd	very light green
+#6ba353	off green
+#cffdbc	very pale green
+#bcf5a6	washed out green
+#96ae8d	greenish grey
+#88b378	sage green
+#74a662	dull green
+#929591	grey
+#86a17d	grey/green
+#bcecac	light sage
+#c7fdb5	pale green
+#b1fc99	pale light green
+#154406	forrest green
+#77926f	green grey
+#548d44	fern green
+#96f97b	light green
+#63a950	fern
+#b0ff9d	pastel green
+#69d84f	fresh green
+#40fd14	poison green
+#51b73b	leafy green
+#2a7e19	tree green
+#5fa052	muted green
+#b2fba5	light pastel green
+#2fef10	vivid green
+#789b73	grey green
+#82a67d	greyish green
+#75fd63	lighter green
+#7bb274	faded green
+#8cfd7e	easter green
+#7ea07a	greeny grey
+#befdb7	celadon
+#50a747	mid green
+#1bfc06	highlighter green
+#21fc0d	electric green
+#062e03	very dark green
+#598556	dark sage
+#2cfa1f	radioactive green
+#033500	dark green
+#76a973	dusty green
+#0b4008	hunter green
+#0aff02	fluro green
+#089404	true green
+#0b5509	forest
+#014600	racing green
+#0add08	vibrant green
+#61e160	lightish green
+#0cff0c	neon green
+#08ff08	fluorescent green
+#56ae57	dark pastel green
+#044a05	bottle green
+#25ff29	hot green
+#01ff07	bright green
+#63b365	boring green
+#054907	darkgreen
+#15b01a	green
+#4efd54	light neon green
+#76ff7b	lightgreen
+#53fe5c	light bright green
+#4f9153	light forest green
+#b6ffbb	light mint
+#6fc276	soft green
+#002d04	dark forest green
+#06470c	forest green
+#05480d	british racing green
+#39ad48	medium green
+#a6fbb2	light mint green
+#8fff9f	mint green
+#02590f	deep green
+#8cff9e	baby green
+#a7ffb5	light seafoam green
+#287c37	darkish green
+#9ffeb0	mint
+#2b5d34	pine
+#2dfe54	bright light green
+#028f1e	emerald green
+#658d6d	slate green
+#9be5aa	hospital green
+#54ac68	algae
+#90fda9	foam green
+#98f6b0	light sea green
+#02ab2e	kelly green
+#019529	irish green
+#0a481e	pine green
+#65ab7c	tea
+#a0febf	light seafoam
+#48c072	dark mint
+#33b864	cool green
+#76fda8	light bluish green
+#80f9ad	seafoam
+#009337	kelley green
+#7af9ab	seafoam green
+#02c14d	shamrock green
+#3ae57f	weird green
+#1ef876	spearmint
+#40a368	greenish
+#01b44c	shamrock
+#7efbb3	light blue green
+#35ad6b	seaweed green
+#01a049	emerald
+#56fca2	light green blue
+#53fca1	sea green
+#20f986	wintergreen
+#2baf6a	jade green
+#21c36f	algae green
+#0bf77d	minty green
+#0cdc73	tealish green
+#3eaf76	dark seafoam green
+#c5c9c7	silver
+#048243	jungle green
+#20c073	dark mint green
+#18d17b	seaweed
+#0a5f38	spruce
+#63f7b4	light greenish blue
+#04f489	turquoise green
+#a5fbd5	pale turquoise
+#05472a	evergreen
+#32bf84	greenish teal
+#2bb179	bluey green
+#90e4c1	light teal
+#7bfdc7	light aquamarine
+#3d9973	ocean green
+#25a36f	teal green
+#1fb57a	dark seafoam
+#12e193	aqua green
+#1fa774	jade
+#0cb577	green teal
+#1e9167	viridian
+#05ffa6	bright sea green
+#11875d	dark sea green
+#23c48b	greenblue
+#82cbb2	pale teal
+#7ef4cc	light turquoise
+#2afeb7	greenish cyan
+#10a674	bluish green
+#8cffdb	light aqua
+#719f91	greyish teal
+#78d1b6	seafoam blue
+#00fbb0	greenish turquoise
+#b8ffeb	pale aqua
+#5e9b8a	grey teal
+#01c08d	green/blue
+#42b395	greeny blue
+#343837	charcoal
+#2ee8bb	aqua marine
+#5f9e8f	dull teal
+#06b48b	green blue
+#01f9c6	bright teal
+#7bf2da	tiffany blue
+#04d8b2	aquamarine
+#1f6357	dark green blue
+#4c9085	dusty teal
+#137e6d	blue green
+#13eac9	aqua
+#c4fff7	eggshell blue
+#24bca8	tealish
+#c3fbf4	duck egg blue
+#d6fffa	ice
+#06c2ac	turquoise
+#005249	dark blue green
+#0f9b8e	blue/green
+#029386	teal
+#cafffb	light light blue
+#3c9992	sea
+#13bbaf	topaz
+#b7fffa	pale cyan
+#0bf9ea	bright aqua
+#acfffc	light cyan
+#0b8b87	greenish blue
+#d7fffe	ice blue
+#d6fffe	very pale blue
+#045c5a	dark turquoise
+#0ffef9	bright turquoise
+#017371	dark aquamarine
+#017a79	bluegreen
+#363737	dark grey
+#d5ffff	very light blue
+#d4ffff	really light blue
+#d0fefe	pale blue
+#070d0d	almost black
+#00ffff	cyan
+#41fdfe	bright cyan
+#017374	deep turquoise
+#014d4e	dark teal
+#0a888a	dark cyan
+#05696b	dark aqua
+#26f7fd	bright light blue
+#c6fcff	light sky blue
+#00555a	deep teal
+#08787f	deep aqua
+#02d8e9	aqua blue
+#06b1c4	turquoise blue
+#98eff9	robin's egg blue
+#005f6a	petrol
+#6dedfd	robin's egg
+#8af1fe	robin egg blue
+#bdf6fe	pale sky blue
+#01889f	teal blue
+#04d9ff	neon blue
+#017b92	ocean
+#3c4142	charcoal grey
+#95a3a6	cool grey
+#02ccfe	bright sky blue
+#047495	sea blue
+#536267	gunmetal
+#03719c	ocean blue
+#3f829d	dirty blue
+#6f828a	steel grey
+#016795	peacock blue
+#77a1b5	greyblue
+#85a3b2	bluegrey
+#107ab0	nice blue
+#748b97	bluish grey
+#6b7c85	battleship grey
+#015482	deep sea blue
+#0e87cc	water blue
+#0485d1	cerulean
+#7bc8f6	lightblue
+#069af3	azure
+#607c8e	blue grey
+#1f3b4d	dark blue grey
+#516572	slate
+#59656d	slate grey
+#31668a	ugly blue
+#647d8e	grey/blue
+#214761	dark slate blue
+#82cafc	sky
+#89a0b0	bluey grey
+#29465b	dark grey blue
+#004577	prussian blue
+#95d0fc	light blue
+#4f738e	metallic blue
+#507b9c	stormy blue
+#9dbcd4	light grey blue
+#6b8ba4	grey blue
+#5e819d	greyish blue
+#5a7d9a	steel blue
+#3b719f	muted blue
+#5b7c99	slate blue
+#4984b8	cool blue
+#155084	light navy
+#5a86ad	dusty blue
+#49759c	dull blue
+#738595	steel
+#4e7496	cadet blue
+#2976bb	bluish
+#01386a	marine blue
+#5684ae	off blue
+#758da3	blue/grey
+#75bbfd	sky blue
+#3c73a8	flat blue
+#0a437a	twilight blue
+#014182	darkish blue
+#3b638c	denim
+#a2cffe	baby blue
+#acc2d9	cloudy blue
+#2e5a88	light navy blue
+#276ab3	mid blue
+#3778bf	windows blue
+#2c6fbb	medium blue
+#448ee4	dark sky blue
+#042e60	marine
+#658cbb	faded blue
+#056eee	cerulean blue
+#0d75f8	deep sky blue
+#26538d	dusk blue
+#b1d1fc	powder blue
+#b7c9e2	light blue grey
+#1b2431	dark
+#0165fc	bright blue
+#8ab8fe	carolina blue
+#247afd	clear blue
+#436bad	french blue
+#1e488f	cobalt
+#3b5b92	denim blue
+#3e82fc	dodger blue
+#01153e	navy
+#3d7afd	lightish blue
+#a2bffe	pastel blue
+#475f94	dusky blue
+#1d5dec	azul
+#0652ff	electric blue
+#0343df	blue
+#6488ea	soft blue
+#001146	navy blue
+#5170d7	cornflower blue
+#0339f8	vibrant blue
+#2242c7	blue blue
+#2138ab	sapphire
+#4e5481	dusk
+#152eff	vivid blue
+#6a79f7	cornflower
+#021bf9	rich blue
+#8f99fb	periwinkle blue
+#c1c6fc	light periwinkle
+#4b57db	warm blue
+#0c1793	royal
+#000435	dark navy
+#010fcc	true blue
+#4e518b	twilight
+#00022e	dark navy blue
+#030aa7	cobalt blue
+#030764	darkblue
+#02066f	dark royal blue
+#00035b	dark blue
+#000133	very dark blue
+#0203e2	pure blue
+#fdfdfe	pale grey
+#0504aa	royal blue
+#040348	night blue
+#0804f9	primary blue
+#040273	deep blue
+#0c06f7	strong blue
+#8b88f8	lavender blue
+#8f8ce7	perrywinkle
+#020035	midnight blue
+#03012d	midnight
+#3a2efe	light royal blue
+#464196	blueberry
+#665fd1	dark periwinkle
+#1805db	ultramarine blue
+#6258c4	iris
+#8e82fe	periwinkle
+#6d5acf	light indigo
+#533cc6	blue with a hint of purple
+#2000b1	ultramarine
+#6140ef	purpleish blue
+#5539cc	blurple
+#3a18b1	indigo blue
+#5f34e7	purpley blue
+#6241c7	bluey purple
+#5729ce	blue purple
+#632de9	purple blue
+#1f0954	dark indigo
+#601ef9	purplish blue
+#6832e3	burple
+#703be7	bluish purple
+#5d21d0	purple/blue
+#8756e4	purpley
+#661aee	purply blue
+#5a06ef	blue/purple
+#510ac9	violet blue
+#5d06e9	blue violet
+#ceaefa	pale violet
+#380282	indigo
+#caa0ff	pastel purple
+#dfc5fe	light lavender
+#d6b4fc	light violet
+#e4cbff	pale lilac
+#cea2fd	lilac
+#c48efd	liliac
+#a55af4	lighter purple
+#c79fef	lavender
+#b36ff6	light urple
+#966ebd	deep lilac
+#ca9bf7	baby purple
+#8d5eb7	deep lavender
+#c071fe	easter purple
+#a552e6	lightish purple
+#bf77f6	light purple
+#b790d4	pale purple
+#9900fa	vivid purple
+#856798	dark lavender
+#aa23ff	electric purple
+#9b5fc0	amethyst
+#a87dc2	wisteria
+#9a0eea	violet
+#c760ff	bright lavender
+#eecffe	pale lavender
+#ad0afd	bright violet
+#edc8ff	light lilac
+#826d8c	grey purple
+#c95efb	bright lilac
+#4b006e	royal purple
+#887191	greyish purple
+#bc13fe	neon purple
+#280137	midnight purple
+#be03fd	bright purple
+#efc0fe	light lavendar
+#7e1e9c	purple
+#983fb2	purply
+#ad03de	vibrant purple
+#7a687f	purplish grey
+#a66fb5	soft purple
+#a484ac	heather
+#2a0134	very dark purple
+#916e99	faded purple
+#34013f	dark violet
+#cb00f5	hot purple
+#d94ff5	heliotrope
+#9c6da5	dark lilac
+#35063e	dark purple
+#805b87	muted purple
+#36013f	deep purple
+#f6cefc	very light purple
+#825f87	dusty purple
+#ac1db8	barney
+#9e43a2	medium purple
+#d725de	purple/pink
+#4e0550	plum purple
+#d648d7	pinkish purple
+#fb5ffc	violet pink
+#947e94	purpley grey
+#db4bda	pink purple
+#490648	deep violet
+#fa5ff7	light magenta
+#751973	darkish purple
+#430541	eggplant purple
+#ef1de7	pink/purple
+#a442a0	ugly purple
+#866f85	purple grey
+#fed0fc	pale mauve
+#c875c4	orchid
+#e03fd8	purple pink
+#a00498	barney purple
+#952e8f	warm purple
+#894585	light eggplant
+#380835	eggplant
+#dd85d7	lavender pink
+#f075e6	purply pink
+#c94cbe	pinky purple
+#ed0dd9	fuchsia
+#ff08e8	bright magenta
+#ac86a8	dusty lavender
+#c83cb9	purpley pink
+#94568c	purplish
+#84597e	dull purple
+#ff63e9	candy pink
+#df4ec8	purpleish pink
+#5d1451	grape purple
+#98568d	purpleish
+#3d0734	aubergine
+#f504c9	hot magenta
+#6c3461	grape
+#7e4071	bruise
+#720058	rich purple
+#ce5dae	purplish pink
+#895b7b	dusky purple
+#fe01b1	bright pink
+#3f012c	dark plum
+#580f41	plum
+#750851	velvet
+#734a65	dirty purple
+#9e0168	red violet
+#fe02a2	shocking pink
+#9d5783	light plum
+#d767ad	pale magenta
+#c20078	magenta
+#fe019a	neon pink
+#fe83cc	bubblegum pink
+#960056	dark magenta
+#a0025c	deep magenta
+#ff0490	electric pink
+#ff028d	hot pink
+#9d0759	dark fuchsia
+#910951	reddish purple
+#ff0789	strong pink
+#820747	red purple
+#fe46a5	barbie pink
+#a50055	violet red
+#ff81c0	pink
+#920a4e	mulberry
+#ff6cb5	bubblegum
+#730039	merlot
+#80013f	wine
+#cb0162	deep pink
+#d90166	dark hot pink
+#ff69af	bubble gum pink
+#990147	purple red
+#990f4b	berry
+#b00149	raspberry
+#de0c62	cerise
+#b0054b	purplish red
+#ffb2d0	powder pink
+#874c62	dark mauve
+#da467d	darkish pink
+#8c0034	red wine
+#9e003a	cranberry
+#f36196	medium pink
+#610023	burgundy
+#7b002c	bordeaux
+#ca0147	ruby
+#650021	maroon
+#ffb7ce	baby pink
+#c292a1	light mauve
+#ff7fa7	carnation pink
+#be013c	rose red
+#f5054f	pink red
+#fc86aa	pinky
+#ffd1df	light pink
+#cb416b	dark pink
+#d5869d	dull pink
+#d5174e	lipstick
+#ffbacd	pastel pink
+#d1768f	muted pink
+#ffcfdc	pale pink
+#f6688e	rosy pink
+#7b0323	wine red
+#fb5581	warm pink
+#ae7181	mauve
+#e78ea5	pig pink
+#ab1239	rouge
+#a8415b	light burgundy
+#fe86a4	rosa
+#c74767	deep rose
+#f10c45	pinkish red
+#cf0234	cherry
+#c0022f	lipstick red
+#de9dac	faded pink
+#76424e	brownish purple
+#680018	claret
+#c3909b	grey pink
+#fdb0c0	soft pink
+#cc7a8b	dusky pink
+#fa2a55	red pink
+#ff073a	neon red
+#b5485d	dark rose
+#fe2c54	reddish pink
+#d46a7e	pinkish
+#cf6275	rose
+#cd7584	ugly pink
+#f7879a	rose pink
+#c77986	old pink
+#fd798f	carnation
+#a24857	light maroon
+#f7022a	cherry red
+#fc2647	pinky red
+#c87f89	old rose
+#ba6873	dusky rose
+#d58a94	dusty pink
+#3c0008	dark maroon
+#fe2f4a	lightish red
+#9d0216	carmine
+#be0119	scarlet
+#fb2943	strawberry
+#6b4247	purplish brown
+#c88d94	greyish pink
+#673a3f	purple brown
+#8c000f	crimson
+#fd4659	watermelon
+#ffc5cb	light rose
+#c0737a	dusty rose
+#fe828c	blush pink
+#fdc1c5	pale rose
+#ca7b80	dirty pink
+#b9484e	dusty red
+#ff000d	bright red
+#d3494e	faded red
+#a90308	darkish red
+#ff474c	light red
+#980002	blood red
+#ff6163	coral pink
+#770001	blood
+#fe0002	fire engine red
+#fe7b7c	salmon pink
