@@ -30,7 +30,7 @@ or, if you just want the XKCD colors in clr format
 
 ```
 1. download the raw file
-2. place the file in your Library path @ "~/Library/Colors/xckd_colors.clr"
+2. place the file in your Library path @ "~/Library/Colors/xckd_rgb.clr"
 ```
 
 
